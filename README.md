@@ -6,3 +6,7 @@ If, for any reason, you would like to donate- though unneccesary, is always apre
 BitCoin: 3Gj49JGVPXjw3994bSebQNrHsFJkZE9iRg && Etherium: 0x08b57537943BBb6A527C9c861E9550D9Be9f7729
 
 Thank you all for reading!
+
+# Tips to Configure
+
+Line 14 of 15 in main.py [print('Connected')] is the action to take when the device has connected back to your home IP.  Also, check out devices.py for an idea I had about saving device IP addresses in a dictionary under names.
